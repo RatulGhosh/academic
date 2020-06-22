@@ -19,33 +19,54 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "ZS Associates"
+  organization_url = ""
+  title = "Young Data Scientist Challenge"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-09-01"
   date_end = ""
-  description = ""
+  description = "3rd rank in the Young Data Scientist Challenge organized by ZS Associates."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Société Générale"
+  organization_url = ""
+  title = "Brainwaves"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = "1st global rank in the Machine Learning hackathon organized by Société Générale."
+
+[[item]]
+  organization = "Indeed"
+  organization_url = ""
+  title = "Indeed Machine Learning CodeSprint"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-04-01"
+  date_end = ""
+  description = "10th rank in the international level machine learning contest organised by Indeed."
+
+[[item]]
+  organization = "Strand Life Science"
+  organization_url = ""
+  title = "MUTeX MINER"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-04-01"
+  date_end = ""
+  description = "Won the second prize in the hackathon organized by the Indian Institute of Science and Strand Life Science in March 2016."
+
+[[item]]
+  organization = "WalmartLabs"
+  organization_url = ""
+  title = "WalmartLabs CodeSprint"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-10-01"
+  date_end = ""
+  description = "21st rank in the international level machine learning contest organised by WalmartLabs."
+
 
 +++

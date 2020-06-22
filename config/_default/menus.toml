@@ -9,28 +9,39 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Blogs"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Projects"
+  url = "#projects"
   weight = 40
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 100
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+    name = "Résumé"
+    url = "https://drive.google.com/file/d/1UU0Rzhr6GpISzBOcGRcfUOED725JY7pL/view?usp=sharing"
+    weight = 70
+
+[[main]]
+  name = "Fun Stuff"
+  url = "https://sites.google.com/view/ratul-fun/home"
+  weight = 80
