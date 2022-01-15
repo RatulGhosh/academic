@@ -29,15 +29,28 @@ date_format = "Jan 2006"
 * Advisors: [Prof. Sameer Singh](http://sameersingh.org/group.html)
 * Working on  Multimodal attributes extraction.
 * Scientific claims and facts verification.
+* UCI Machine Learning Repository.
 
   """
 
+[[experience]]
+  title = "Applied Scientist Intern"
+  company = "Amazon"
+  company_url = "amazon.science"
+  location = "Seattle, Washington"
+  date_start = "2021-06-01"
+  date_end = "2021-08-31"
+  description = """
+  <br />
+* Semi-Supervised learning for Risky Vendor Identification.
+
+  """
 
 [[experience]]
   title = "Data Scientist"
   company = "Société Générale"
   company_url = "https://www.societegenerale.com/en/home"
-  location = "Bangalore"
+  location = "Bangalore & Paris"
   date_start = "2018-08-01"
   date_end = "2020-09-30"
   description = """
@@ -83,7 +96,7 @@ the KYC remediation process using Machine Learning.
   title = "Software Developer(Machine Learning) Intern"
   company = "ThirdEye Data"
   company_url = "https://thirdeyedata.io/"
-  location = "Kolkata"
+  location = "Kolkata, India"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
   description = """

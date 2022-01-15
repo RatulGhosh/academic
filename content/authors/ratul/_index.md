@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Grad Student in CS | Researcher
+role: Grad Student in CS | Researcher | Former Applied Scientist at Amazon & Société Générale
 
 # Organizations/Affiliations
 organizations:
@@ -37,10 +37,6 @@ education:
 
   - course: BTech in Electronics and Communication
     institution: Indian Institute of Information Technology, Allahabad
-    year: 2018
-
-  - course: Artificial Intelligence Nanodegree
-    institution: Udacity
     year: 2018
 
 
